@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color:grey
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 50px;
+    font-family: Arial, sans-serif ;
+    font-size: 1rem;
+    line-height: 2.0;
+    color: #fff;
+}
+
+header {
+    text-align: center;
+    color: #fff;
+}
+
+footer {
+    text-align: center;
+    color: white;
+}
+
+button:hover {
+    background-color: #444;
+}
